@@ -1,0 +1,1274 @@
+[
+  {
+    "config": {
+      "patch_size": 100,
+      "rotation": 0
+    },
+    "avg_transfer_pct": 0.0,
+    "std_transfer_pct": 0.0,
+    "yolo_avg_drop": -5.555555555555555,
+    "rcnn_avg_drop": -0.2521645021645023,
+    "records": [
+      {
+        "image": "000000000139.jpg",
+        "yolo_clean": 6,
+        "yolo_adv": 6,
+        "yolo_loss": 0,
+        "rcnn_clean": 17,
+        "rcnn_adv": 17,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000285.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 1,
+        "rcnn_adv": 1,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000632.jpg",
+        "yolo_clean": 3,
+        "yolo_adv": 3,
+        "yolo_loss": 0,
+        "rcnn_clean": 38,
+        "rcnn_adv": 38,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000724.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 3,
+        "rcnn_adv": 3,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000776.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 3,
+        "yolo_loss": 0,
+        "rcnn_clean": 6,
+        "rcnn_adv": 6,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000785.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 2,
+        "rcnn_adv": 2,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000802.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 2,
+        "rcnn_adv": 2,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000872.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 2,
+        "rcnn_adv": 2,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000885.jpg",
+        "yolo_clean": 4,
+        "yolo_adv": 4,
+        "yolo_loss": 0,
+        "rcnn_clean": 8,
+        "rcnn_adv": 8,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001000.jpg",
+        "yolo_clean": 9,
+        "yolo_adv": 10,
+        "yolo_loss": 0,
+        "rcnn_clean": 16,
+        "rcnn_adv": 16,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001268.jpg",
+        "yolo_clean": 6,
+        "yolo_adv": 6,
+        "yolo_loss": 0,
+        "rcnn_clean": 9,
+        "rcnn_adv": 9,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001296.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 11,
+        "rcnn_adv": 12,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001353.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 7,
+        "rcnn_adv": 8,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001425.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 4,
+        "rcnn_adv": 4,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001490.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 3,
+        "rcnn_adv": 3,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001503.jpg",
+        "yolo_clean": 5,
+        "yolo_adv": 5,
+        "yolo_loss": 0,
+        "rcnn_clean": 6,
+        "rcnn_adv": 6,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001532.jpg",
+        "yolo_clean": 3,
+        "yolo_adv": 3,
+        "yolo_loss": 0,
+        "rcnn_clean": 10,
+        "rcnn_adv": 9,
+        "rcnn_loss": 1,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001584.jpg",
+        "yolo_clean": 4,
+        "yolo_adv": 4,
+        "yolo_loss": 0,
+        "rcnn_clean": 12,
+        "rcnn_adv": 11,
+        "rcnn_loss": 1,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001675.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 3,
+        "yolo_loss": 0,
+        "rcnn_clean": 3,
+        "rcnn_adv": 3,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001761.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 2,
+        "rcnn_adv": 2,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      }
+    ]
+  },
+  {
+    "config": {
+      "patch_size": 150,
+      "rotation": 0
+    },
+    "avg_transfer_pct": 0.0,
+    "std_transfer_pct": 0.0,
+    "yolo_avg_drop": -2.5,
+    "rcnn_avg_drop": 2.1937341124647625,
+    "records": [
+      {
+        "image": "000000000139.jpg",
+        "yolo_clean": 6,
+        "yolo_adv": 6,
+        "yolo_loss": 0,
+        "rcnn_clean": 17,
+        "rcnn_adv": 16,
+        "rcnn_loss": 1,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000285.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 1,
+        "rcnn_adv": 1,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000632.jpg",
+        "yolo_clean": 3,
+        "yolo_adv": 3,
+        "yolo_loss": 0,
+        "rcnn_clean": 38,
+        "rcnn_adv": 37,
+        "rcnn_loss": 1,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000724.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 3,
+        "rcnn_adv": 3,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000776.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 6,
+        "rcnn_adv": 4,
+        "rcnn_loss": 2,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000785.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 2,
+        "rcnn_adv": 2,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000802.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 2,
+        "rcnn_adv": 2,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000872.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 2,
+        "rcnn_adv": 2,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000885.jpg",
+        "yolo_clean": 4,
+        "yolo_adv": 4,
+        "yolo_loss": 0,
+        "rcnn_clean": 8,
+        "rcnn_adv": 8,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001000.jpg",
+        "yolo_clean": 9,
+        "yolo_adv": 9,
+        "yolo_loss": 0,
+        "rcnn_clean": 16,
+        "rcnn_adv": 16,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001268.jpg",
+        "yolo_clean": 6,
+        "yolo_adv": 6,
+        "yolo_loss": 0,
+        "rcnn_clean": 9,
+        "rcnn_adv": 7,
+        "rcnn_loss": 2,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001296.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 11,
+        "rcnn_adv": 10,
+        "rcnn_loss": 1,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001353.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 7,
+        "rcnn_adv": 8,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001425.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 4,
+        "rcnn_adv": 4,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001490.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 3,
+        "rcnn_adv": 3,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001503.jpg",
+        "yolo_clean": 5,
+        "yolo_adv": 5,
+        "yolo_loss": 0,
+        "rcnn_clean": 6,
+        "rcnn_adv": 6,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001532.jpg",
+        "yolo_clean": 3,
+        "yolo_adv": 3,
+        "yolo_loss": 0,
+        "rcnn_clean": 10,
+        "rcnn_adv": 9,
+        "rcnn_loss": 1,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001584.jpg",
+        "yolo_clean": 4,
+        "yolo_adv": 4,
+        "yolo_loss": 0,
+        "rcnn_clean": 12,
+        "rcnn_adv": 11,
+        "rcnn_loss": 1,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001675.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 1,
+        "yolo_loss": 1,
+        "rcnn_clean": 3,
+        "rcnn_adv": 4,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001761.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 2,
+        "rcnn_adv": 2,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      }
+    ]
+  },
+  {
+    "config": {
+      "patch_size": 200,
+      "rotation": 0
+    },
+    "avg_transfer_pct": 25.0,
+    "std_transfer_pct": 108.97247358851683,
+    "yolo_avg_drop": 2.9166666666666665,
+    "rcnn_avg_drop": -8.810884441495896,
+    "records": [
+      {
+        "image": "000000000139.jpg",
+        "yolo_clean": 6,
+        "yolo_adv": 6,
+        "yolo_loss": 0,
+        "rcnn_clean": 17,
+        "rcnn_adv": 16,
+        "rcnn_loss": 1,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000285.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 1,
+        "rcnn_adv": 1,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000632.jpg",
+        "yolo_clean": 3,
+        "yolo_adv": 2,
+        "yolo_loss": 1,
+        "rcnn_clean": 38,
+        "rcnn_adv": 33,
+        "rcnn_loss": 5,
+        "transfer_pct": 500.0
+      },
+      {
+        "image": "000000000724.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 3,
+        "rcnn_adv": 4,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000776.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 6,
+        "rcnn_adv": 6,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000785.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 2,
+        "rcnn_adv": 2,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000802.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 2,
+        "rcnn_adv": 4,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000872.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 2,
+        "rcnn_adv": 2,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000885.jpg",
+        "yolo_clean": 4,
+        "yolo_adv": 3,
+        "yolo_loss": 1,
+        "rcnn_clean": 8,
+        "rcnn_adv": 8,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001000.jpg",
+        "yolo_clean": 9,
+        "yolo_adv": 9,
+        "yolo_loss": 0,
+        "rcnn_clean": 16,
+        "rcnn_adv": 15,
+        "rcnn_loss": 1,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001268.jpg",
+        "yolo_clean": 6,
+        "yolo_adv": 6,
+        "yolo_loss": 0,
+        "rcnn_clean": 9,
+        "rcnn_adv": 8,
+        "rcnn_loss": 1,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001296.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 11,
+        "rcnn_adv": 11,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001353.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 0,
+        "yolo_loss": 2,
+        "rcnn_clean": 7,
+        "rcnn_adv": 8,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001425.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 4,
+        "rcnn_adv": 4,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001490.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 3,
+        "rcnn_adv": 3,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001503.jpg",
+        "yolo_clean": 5,
+        "yolo_adv": 5,
+        "yolo_loss": 0,
+        "rcnn_clean": 6,
+        "rcnn_adv": 7,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001532.jpg",
+        "yolo_clean": 3,
+        "yolo_adv": 3,
+        "yolo_loss": 0,
+        "rcnn_clean": 10,
+        "rcnn_adv": 9,
+        "rcnn_loss": 1,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001584.jpg",
+        "yolo_clean": 4,
+        "yolo_adv": 4,
+        "yolo_loss": 0,
+        "rcnn_clean": 12,
+        "rcnn_adv": 11,
+        "rcnn_loss": 1,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001675.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 3,
+        "rcnn_adv": 5,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001761.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 2,
+        "rcnn_adv": 2,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      }
+    ]
+  },
+  {
+    "config": {
+      "patch_size": 200,
+      "rotation": 45
+    },
+    "avg_transfer_pct": 15.0,
+    "std_transfer_pct": 65.3834841531101,
+    "yolo_avg_drop": 1.1111111111111107,
+    "rcnn_avg_drop": -3.0656389748882,
+    "records": [
+      {
+        "image": "000000000139.jpg",
+        "yolo_clean": 6,
+        "yolo_adv": 6,
+        "yolo_loss": 0,
+        "rcnn_clean": 17,
+        "rcnn_adv": 15,
+        "rcnn_loss": 2,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000285.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 1,
+        "rcnn_adv": 1,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000632.jpg",
+        "yolo_clean": 3,
+        "yolo_adv": 2,
+        "yolo_loss": 1,
+        "rcnn_clean": 38,
+        "rcnn_adv": 35,
+        "rcnn_loss": 3,
+        "transfer_pct": 300.0
+      },
+      {
+        "image": "000000000724.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 3,
+        "rcnn_adv": 4,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000776.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 6,
+        "rcnn_adv": 3,
+        "rcnn_loss": 3,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000785.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 2,
+        "rcnn_adv": 2,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000802.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 2,
+        "rcnn_adv": 3,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000872.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 2,
+        "rcnn_adv": 2,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000885.jpg",
+        "yolo_clean": 4,
+        "yolo_adv": 4,
+        "yolo_loss": 0,
+        "rcnn_clean": 8,
+        "rcnn_adv": 8,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001000.jpg",
+        "yolo_clean": 9,
+        "yolo_adv": 10,
+        "yolo_loss": 0,
+        "rcnn_clean": 16,
+        "rcnn_adv": 15,
+        "rcnn_loss": 1,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001268.jpg",
+        "yolo_clean": 6,
+        "yolo_adv": 6,
+        "yolo_loss": 0,
+        "rcnn_clean": 9,
+        "rcnn_adv": 8,
+        "rcnn_loss": 1,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001296.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 11,
+        "rcnn_adv": 11,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001353.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 0,
+        "yolo_loss": 2,
+        "rcnn_clean": 7,
+        "rcnn_adv": 7,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001425.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 4,
+        "rcnn_adv": 4,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001490.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 3,
+        "rcnn_adv": 3,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001503.jpg",
+        "yolo_clean": 5,
+        "yolo_adv": 5,
+        "yolo_loss": 0,
+        "rcnn_clean": 6,
+        "rcnn_adv": 7,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001532.jpg",
+        "yolo_clean": 3,
+        "yolo_adv": 3,
+        "yolo_loss": 0,
+        "rcnn_clean": 10,
+        "rcnn_adv": 9,
+        "rcnn_loss": 1,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001584.jpg",
+        "yolo_clean": 4,
+        "yolo_adv": 4,
+        "yolo_loss": 0,
+        "rcnn_clean": 12,
+        "rcnn_adv": 11,
+        "rcnn_loss": 1,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001675.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 3,
+        "rcnn_adv": 5,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001761.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 2,
+        "rcnn_adv": 2,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      }
+    ]
+  },
+  {
+    "config": {
+      "patch_size": 200,
+      "rotation": 90
+    },
+    "avg_transfer_pct": 25.0,
+    "std_transfer_pct": 88.74119674649424,
+    "yolo_avg_drop": 3.75,
+    "rcnn_avg_drop": -7.606679075138828,
+    "records": [
+      {
+        "image": "000000000139.jpg",
+        "yolo_clean": 6,
+        "yolo_adv": 6,
+        "yolo_loss": 0,
+        "rcnn_clean": 17,
+        "rcnn_adv": 15,
+        "rcnn_loss": 2,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000285.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 1,
+        "rcnn_adv": 1,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000632.jpg",
+        "yolo_clean": 3,
+        "yolo_adv": 2,
+        "yolo_loss": 1,
+        "rcnn_clean": 38,
+        "rcnn_adv": 34,
+        "rcnn_loss": 4,
+        "transfer_pct": 400.0
+      },
+      {
+        "image": "000000000724.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 3,
+        "rcnn_adv": 4,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000776.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 6,
+        "rcnn_adv": 4,
+        "rcnn_loss": 2,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000785.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 2,
+        "rcnn_adv": 2,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000802.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 2,
+        "rcnn_adv": 4,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000872.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 2,
+        "rcnn_adv": 2,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000885.jpg",
+        "yolo_clean": 4,
+        "yolo_adv": 3,
+        "yolo_loss": 1,
+        "rcnn_clean": 8,
+        "rcnn_adv": 9,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001000.jpg",
+        "yolo_clean": 9,
+        "yolo_adv": 9,
+        "yolo_loss": 0,
+        "rcnn_clean": 16,
+        "rcnn_adv": 15,
+        "rcnn_loss": 1,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001268.jpg",
+        "yolo_clean": 6,
+        "yolo_adv": 5,
+        "yolo_loss": 1,
+        "rcnn_clean": 9,
+        "rcnn_adv": 8,
+        "rcnn_loss": 1,
+        "transfer_pct": 100.0
+      },
+      {
+        "image": "000000001296.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 11,
+        "rcnn_adv": 11,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001353.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 0,
+        "yolo_loss": 2,
+        "rcnn_clean": 7,
+        "rcnn_adv": 8,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001425.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 4,
+        "rcnn_adv": 4,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001490.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 3,
+        "rcnn_adv": 3,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001503.jpg",
+        "yolo_clean": 5,
+        "yolo_adv": 5,
+        "yolo_loss": 0,
+        "rcnn_clean": 6,
+        "rcnn_adv": 7,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001532.jpg",
+        "yolo_clean": 3,
+        "yolo_adv": 3,
+        "yolo_loss": 0,
+        "rcnn_clean": 10,
+        "rcnn_adv": 9,
+        "rcnn_loss": 1,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001584.jpg",
+        "yolo_clean": 4,
+        "yolo_adv": 4,
+        "yolo_loss": 0,
+        "rcnn_clean": 12,
+        "rcnn_adv": 11,
+        "rcnn_loss": 1,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001675.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 3,
+        "rcnn_adv": 5,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001761.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 2,
+        "rcnn_adv": 2,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      }
+    ]
+  },
+  {
+    "config": {
+      "patch_size": 250,
+      "rotation": 0
+    },
+    "avg_transfer_pct": 70.0,
+    "std_transfer_pct": 164.62077633154328,
+    "yolo_avg_drop": 25.833333333333332,
+    "rcnn_avg_drop": 1.4591520021086581,
+    "records": [
+      {
+        "image": "000000000139.jpg",
+        "yolo_clean": 6,
+        "yolo_adv": 5,
+        "yolo_loss": 1,
+        "rcnn_clean": 17,
+        "rcnn_adv": 10,
+        "rcnn_loss": 7,
+        "transfer_pct": 700.0
+      },
+      {
+        "image": "000000000285.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 1,
+        "rcnn_adv": 1,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000632.jpg",
+        "yolo_clean": 3,
+        "yolo_adv": 2,
+        "yolo_loss": 1,
+        "rcnn_clean": 38,
+        "rcnn_adv": 35,
+        "rcnn_loss": 3,
+        "transfer_pct": 300.0
+      },
+      {
+        "image": "000000000724.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 0,
+        "yolo_loss": 1,
+        "rcnn_clean": 3,
+        "rcnn_adv": 2,
+        "rcnn_loss": 1,
+        "transfer_pct": 100.0
+      },
+      {
+        "image": "000000000776.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 3,
+        "yolo_loss": 0,
+        "rcnn_clean": 6,
+        "rcnn_adv": 5,
+        "rcnn_loss": 1,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000785.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 2,
+        "rcnn_adv": 2,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000802.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 1,
+        "yolo_loss": 1,
+        "rcnn_clean": 2,
+        "rcnn_adv": 3,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000872.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 1,
+        "yolo_loss": 1,
+        "rcnn_clean": 2,
+        "rcnn_adv": 3,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000000885.jpg",
+        "yolo_clean": 4,
+        "yolo_adv": 4,
+        "yolo_loss": 0,
+        "rcnn_clean": 8,
+        "rcnn_adv": 6,
+        "rcnn_loss": 2,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001000.jpg",
+        "yolo_clean": 9,
+        "yolo_adv": 9,
+        "yolo_loss": 0,
+        "rcnn_clean": 16,
+        "rcnn_adv": 14,
+        "rcnn_loss": 2,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001268.jpg",
+        "yolo_clean": 6,
+        "yolo_adv": 5,
+        "yolo_loss": 1,
+        "rcnn_clean": 9,
+        "rcnn_adv": 7,
+        "rcnn_loss": 2,
+        "transfer_pct": 200.0
+      },
+      {
+        "image": "000000001296.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 11,
+        "rcnn_adv": 13,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001353.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 0,
+        "yolo_loss": 2,
+        "rcnn_clean": 7,
+        "rcnn_adv": 5,
+        "rcnn_loss": 2,
+        "transfer_pct": 100.0
+      },
+      {
+        "image": "000000001425.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 0,
+        "yolo_loss": 1,
+        "rcnn_clean": 4,
+        "rcnn_adv": 4,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001490.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "yolo_loss": 0,
+        "rcnn_clean": 3,
+        "rcnn_adv": 3,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001503.jpg",
+        "yolo_clean": 5,
+        "yolo_adv": 5,
+        "yolo_loss": 0,
+        "rcnn_clean": 6,
+        "rcnn_adv": 6,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001532.jpg",
+        "yolo_clean": 3,
+        "yolo_adv": 3,
+        "yolo_loss": 0,
+        "rcnn_clean": 10,
+        "rcnn_adv": 9,
+        "rcnn_loss": 1,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001584.jpg",
+        "yolo_clean": 4,
+        "yolo_adv": 4,
+        "yolo_loss": 0,
+        "rcnn_clean": 12,
+        "rcnn_adv": 10,
+        "rcnn_loss": 2,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001675.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 0,
+        "yolo_loss": 2,
+        "rcnn_clean": 3,
+        "rcnn_adv": 5,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      },
+      {
+        "image": "000000001761.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "yolo_loss": 0,
+        "rcnn_clean": 2,
+        "rcnn_adv": 2,
+        "rcnn_loss": 0,
+        "transfer_pct": 0.0
+      }
+    ]
+  }
+]

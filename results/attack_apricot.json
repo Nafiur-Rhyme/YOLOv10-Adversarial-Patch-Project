@@ -1,0 +1,228 @@
+{
+  "test": {
+    "yolov10": {
+      "avg_clean": 0.7,
+      "avg_adv": 0.6333333333333333,
+      "avg_drop_pct": 11.666666666666666,
+      "std_drop_pct": 45.97704741377907
+    },
+    "faster_rcnn": {
+      "avg_clean": 7.8,
+      "avg_adv": 5.933333333333334,
+      "avg_drop_pct": 26.920401493930907,
+      "std_drop_pct": 33.267828752070535
+    },
+    "records": [
+      {
+        "image": "frc10_10.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "rcnn_clean": 8,
+        "rcnn_adv": 5
+      },
+      {
+        "image": "frc10_11.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "rcnn_clean": 11,
+        "rcnn_adv": 10
+      },
+      {
+        "image": "frc10_12.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 1,
+        "rcnn_clean": 10,
+        "rcnn_adv": 5
+      },
+      {
+        "image": "frc10_13.jpg",
+        "yolo_clean": 0,
+        "yolo_adv": 0,
+        "rcnn_clean": 12,
+        "rcnn_adv": 7
+      },
+      {
+        "image": "frc10_14.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "rcnn_clean": 2,
+        "rcnn_adv": 2
+      },
+      {
+        "image": "frc10_15.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 0,
+        "rcnn_clean": 3,
+        "rcnn_adv": 1
+      },
+      {
+        "image": "frc10_16.jpg",
+        "yolo_clean": 0,
+        "yolo_adv": 0,
+        "rcnn_clean": 1,
+        "rcnn_adv": 1
+      },
+      {
+        "image": "frc10_4.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "rcnn_clean": 1,
+        "rcnn_adv": 1
+      },
+      {
+        "image": "frc10_6.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "rcnn_clean": 3,
+        "rcnn_adv": 2
+      },
+      {
+        "image": "frc10_7.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "rcnn_clean": 2,
+        "rcnn_adv": 2
+      },
+      {
+        "image": "frc10_9.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 2,
+        "rcnn_clean": 6,
+        "rcnn_adv": 5
+      },
+      {
+        "image": "frc1_0.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "rcnn_clean": 20,
+        "rcnn_adv": 17
+      },
+      {
+        "image": "frc1_1.jpg",
+        "yolo_clean": 0,
+        "yolo_adv": 0,
+        "rcnn_clean": 22,
+        "rcnn_adv": 13
+      },
+      {
+        "image": "frc1_10.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 0,
+        "rcnn_clean": 8,
+        "rcnn_adv": 0
+      },
+      {
+        "image": "frc1_11.jpg",
+        "yolo_clean": 0,
+        "yolo_adv": 0,
+        "rcnn_clean": 6,
+        "rcnn_adv": 1
+      },
+      {
+        "image": "frc1_12.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 1,
+        "rcnn_clean": 4,
+        "rcnn_adv": 3
+      },
+      {
+        "image": "frc1_14.jpg",
+        "yolo_clean": 0,
+        "yolo_adv": 0,
+        "rcnn_clean": 2,
+        "rcnn_adv": 1
+      },
+      {
+        "image": "frc1_15.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 1,
+        "rcnn_clean": 4,
+        "rcnn_adv": 3
+      },
+      {
+        "image": "frc1_16.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 0,
+        "rcnn_clean": 5,
+        "rcnn_adv": 5
+      },
+      {
+        "image": "frc1_18.jpg",
+        "yolo_clean": 0,
+        "yolo_adv": 0,
+        "rcnn_clean": 0,
+        "rcnn_adv": 0
+      },
+      {
+        "image": "frc1_19.jpg",
+        "yolo_clean": 0,
+        "yolo_adv": 0,
+        "rcnn_clean": 0,
+        "rcnn_adv": 0
+      },
+      {
+        "image": "frc1_2.jpg",
+        "yolo_clean": 0,
+        "yolo_adv": 1,
+        "rcnn_clean": 18,
+        "rcnn_adv": 21
+      },
+      {
+        "image": "frc1_20.jpg",
+        "yolo_clean": 0,
+        "yolo_adv": 0,
+        "rcnn_clean": 0,
+        "rcnn_adv": 0
+      },
+      {
+        "image": "frc1_21.jpg",
+        "yolo_clean": 0,
+        "yolo_adv": 0,
+        "rcnn_clean": 1,
+        "rcnn_adv": 0
+      },
+      {
+        "image": "frc1_22.jpg",
+        "yolo_clean": 0,
+        "yolo_adv": 0,
+        "rcnn_clean": 0,
+        "rcnn_adv": 0
+      },
+      {
+        "image": "frc1_23.jpg",
+        "yolo_clean": 1,
+        "yolo_adv": 0,
+        "rcnn_clean": 1,
+        "rcnn_adv": 0
+      },
+      {
+        "image": "frc1_3.jpg",
+        "yolo_clean": 2,
+        "yolo_adv": 5,
+        "rcnn_clean": 42,
+        "rcnn_adv": 38
+      },
+      {
+        "image": "frc1_5.jpg",
+        "yolo_clean": 0,
+        "yolo_adv": 0,
+        "rcnn_clean": 34,
+        "rcnn_adv": 27
+      },
+      {
+        "image": "frc1_6.jpg",
+        "yolo_clean": 0,
+        "yolo_adv": 0,
+        "rcnn_clean": 3,
+        "rcnn_adv": 3
+      },
+      {
+        "image": "frc1_7.jpg",
+        "yolo_clean": 0,
+        "yolo_adv": 0,
+        "rcnn_clean": 5,
+        "rcnn_adv": 5
+      }
+    ]
+  }
+}

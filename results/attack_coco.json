@@ -1,0 +1,366 @@
+{
+  "yolov10": {
+    "avg_clean": 3.0,
+    "avg_adv": 2.66,
+    "avg_drop_pct": 8.335714285714284,
+    "std_drop_pct": 32.93191630836251
+  },
+  "faster_rcnn": {
+    "avg_clean": 8.34,
+    "avg_adv": 7.6,
+    "avg_drop_pct": 1.927770755664819,
+    "std_drop_pct": 25.909820679744477
+  },
+  "records": [
+    {
+      "image": "000000000139.jpg",
+      "yolo_clean": 6,
+      "yolo_adv": 6,
+      "rcnn_clean": 17,
+      "rcnn_adv": 14
+    },
+    {
+      "image": "000000000285.jpg",
+      "yolo_clean": 1,
+      "yolo_adv": 1,
+      "rcnn_clean": 1,
+      "rcnn_adv": 1
+    },
+    {
+      "image": "000000000632.jpg",
+      "yolo_clean": 3,
+      "yolo_adv": 2,
+      "rcnn_clean": 38,
+      "rcnn_adv": 36
+    },
+    {
+      "image": "000000000724.jpg",
+      "yolo_clean": 1,
+      "yolo_adv": 1,
+      "rcnn_clean": 3,
+      "rcnn_adv": 4
+    },
+    {
+      "image": "000000000776.jpg",
+      "yolo_clean": 2,
+      "yolo_adv": 3,
+      "rcnn_clean": 6,
+      "rcnn_adv": 4
+    },
+    {
+      "image": "000000000785.jpg",
+      "yolo_clean": 2,
+      "yolo_adv": 2,
+      "rcnn_clean": 2,
+      "rcnn_adv": 2
+    },
+    {
+      "image": "000000000802.jpg",
+      "yolo_clean": 2,
+      "yolo_adv": 2,
+      "rcnn_clean": 2,
+      "rcnn_adv": 2
+    },
+    {
+      "image": "000000000872.jpg",
+      "yolo_clean": 2,
+      "yolo_adv": 2,
+      "rcnn_clean": 2,
+      "rcnn_adv": 2
+    },
+    {
+      "image": "000000000885.jpg",
+      "yolo_clean": 4,
+      "yolo_adv": 3,
+      "rcnn_clean": 8,
+      "rcnn_adv": 8
+    },
+    {
+      "image": "000000001000.jpg",
+      "yolo_clean": 9,
+      "yolo_adv": 10,
+      "rcnn_clean": 16,
+      "rcnn_adv": 15
+    },
+    {
+      "image": "000000001268.jpg",
+      "yolo_clean": 6,
+      "yolo_adv": 6,
+      "rcnn_clean": 9,
+      "rcnn_adv": 8
+    },
+    {
+      "image": "000000001296.jpg",
+      "yolo_clean": 1,
+      "yolo_adv": 2,
+      "rcnn_clean": 11,
+      "rcnn_adv": 11
+    },
+    {
+      "image": "000000001353.jpg",
+      "yolo_clean": 2,
+      "yolo_adv": 0,
+      "rcnn_clean": 7,
+      "rcnn_adv": 7
+    },
+    {
+      "image": "000000001425.jpg",
+      "yolo_clean": 1,
+      "yolo_adv": 1,
+      "rcnn_clean": 4,
+      "rcnn_adv": 4
+    },
+    {
+      "image": "000000001490.jpg",
+      "yolo_clean": 1,
+      "yolo_adv": 1,
+      "rcnn_clean": 3,
+      "rcnn_adv": 3
+    },
+    {
+      "image": "000000001503.jpg",
+      "yolo_clean": 5,
+      "yolo_adv": 5,
+      "rcnn_clean": 6,
+      "rcnn_adv": 7
+    },
+    {
+      "image": "000000001532.jpg",
+      "yolo_clean": 3,
+      "yolo_adv": 3,
+      "rcnn_clean": 10,
+      "rcnn_adv": 9
+    },
+    {
+      "image": "000000001584.jpg",
+      "yolo_clean": 4,
+      "yolo_adv": 4,
+      "rcnn_clean": 12,
+      "rcnn_adv": 11
+    },
+    {
+      "image": "000000001675.jpg",
+      "yolo_clean": 2,
+      "yolo_adv": 1,
+      "rcnn_clean": 3,
+      "rcnn_adv": 5
+    },
+    {
+      "image": "000000001761.jpg",
+      "yolo_clean": 2,
+      "yolo_adv": 2,
+      "rcnn_clean": 2,
+      "rcnn_adv": 2
+    },
+    {
+      "image": "000000001818.jpg",
+      "yolo_clean": 1,
+      "yolo_adv": 0,
+      "rcnn_clean": 1,
+      "rcnn_adv": 2
+    },
+    {
+      "image": "000000001993.jpg",
+      "yolo_clean": 3,
+      "yolo_adv": 3,
+      "rcnn_clean": 4,
+      "rcnn_adv": 4
+    },
+    {
+      "image": "000000002006.jpg",
+      "yolo_clean": 3,
+      "yolo_adv": 3,
+      "rcnn_clean": 5,
+      "rcnn_adv": 5
+    },
+    {
+      "image": "000000002149.jpg",
+      "yolo_clean": 3,
+      "yolo_adv": 2,
+      "rcnn_clean": 4,
+      "rcnn_adv": 4
+    },
+    {
+      "image": "000000002153.jpg",
+      "yolo_clean": 4,
+      "yolo_adv": 3,
+      "rcnn_clean": 7,
+      "rcnn_adv": 5
+    },
+    {
+      "image": "000000002157.jpg",
+      "yolo_clean": 7,
+      "yolo_adv": 1,
+      "rcnn_clean": 19,
+      "rcnn_adv": 12
+    },
+    {
+      "image": "000000002261.jpg",
+      "yolo_clean": 1,
+      "yolo_adv": 1,
+      "rcnn_clean": 2,
+      "rcnn_adv": 3
+    },
+    {
+      "image": "000000002299.jpg",
+      "yolo_clean": 4,
+      "yolo_adv": 7,
+      "rcnn_clean": 39,
+      "rcnn_adv": 35
+    },
+    {
+      "image": "000000002431.jpg",
+      "yolo_clean": 5,
+      "yolo_adv": 4,
+      "rcnn_clean": 11,
+      "rcnn_adv": 13
+    },
+    {
+      "image": "000000002473.jpg",
+      "yolo_clean": 3,
+      "yolo_adv": 3,
+      "rcnn_clean": 6,
+      "rcnn_adv": 6
+    },
+    {
+      "image": "000000002532.jpg",
+      "yolo_clean": 0,
+      "yolo_adv": 0,
+      "rcnn_clean": 2,
+      "rcnn_adv": 2
+    },
+    {
+      "image": "000000002587.jpg",
+      "yolo_clean": 0,
+      "yolo_adv": 0,
+      "rcnn_clean": 2,
+      "rcnn_adv": 2
+    },
+    {
+      "image": "000000002592.jpg",
+      "yolo_clean": 2,
+      "yolo_adv": 1,
+      "rcnn_clean": 3,
+      "rcnn_adv": 2
+    },
+    {
+      "image": "000000002685.jpg",
+      "yolo_clean": 5,
+      "yolo_adv": 4,
+      "rcnn_clean": 17,
+      "rcnn_adv": 14
+    },
+    {
+      "image": "000000002923.jpg",
+      "yolo_clean": 1,
+      "yolo_adv": 1,
+      "rcnn_clean": 5,
+      "rcnn_adv": 3
+    },
+    {
+      "image": "000000003156.jpg",
+      "yolo_clean": 1,
+      "yolo_adv": 1,
+      "rcnn_clean": 5,
+      "rcnn_adv": 5
+    },
+    {
+      "image": "000000003255.jpg",
+      "yolo_clean": 3,
+      "yolo_adv": 3,
+      "rcnn_clean": 7,
+      "rcnn_adv": 7
+    },
+    {
+      "image": "000000003501.jpg",
+      "yolo_clean": 1,
+      "yolo_adv": 1,
+      "rcnn_clean": 5,
+      "rcnn_adv": 3
+    },
+    {
+      "image": "000000003553.jpg",
+      "yolo_clean": 1,
+      "yolo_adv": 1,
+      "rcnn_clean": 5,
+      "rcnn_adv": 5
+    },
+    {
+      "image": "000000003661.jpg",
+      "yolo_clean": 2,
+      "yolo_adv": 2,
+      "rcnn_clean": 7,
+      "rcnn_adv": 6
+    },
+    {
+      "image": "000000003845.jpg",
+      "yolo_clean": 4,
+      "yolo_adv": 3,
+      "rcnn_clean": 10,
+      "rcnn_adv": 10
+    },
+    {
+      "image": "000000003934.jpg",
+      "yolo_clean": 7,
+      "yolo_adv": 5,
+      "rcnn_clean": 12,
+      "rcnn_adv": 11
+    },
+    {
+      "image": "000000004134.jpg",
+      "yolo_clean": 9,
+      "yolo_adv": 8,
+      "rcnn_clean": 23,
+      "rcnn_adv": 22
+    },
+    {
+      "image": "000000004395.jpg",
+      "yolo_clean": 2,
+      "yolo_adv": 2,
+      "rcnn_clean": 2,
+      "rcnn_adv": 3
+    },
+    {
+      "image": "000000004495.jpg",
+      "yolo_clean": 3,
+      "yolo_adv": 2,
+      "rcnn_clean": 4,
+      "rcnn_adv": 2
+    },
+    {
+      "image": "000000004765.jpg",
+      "yolo_clean": 2,
+      "yolo_adv": 2,
+      "rcnn_clean": 2,
+      "rcnn_adv": 2
+    },
+    {
+      "image": "000000004795.jpg",
+      "yolo_clean": 3,
+      "yolo_adv": 3,
+      "rcnn_clean": 8,
+      "rcnn_adv": 7
+    },
+    {
+      "image": "000000005001.jpg",
+      "yolo_clean": 8,
+      "yolo_adv": 7,
+      "rcnn_clean": 24,
+      "rcnn_adv": 18
+    },
+    {
+      "image": "000000005037.jpg",
+      "yolo_clean": 2,
+      "yolo_adv": 2,
+      "rcnn_clean": 11,
+      "rcnn_adv": 9
+    },
+    {
+      "image": "000000005060.jpg",
+      "yolo_clean": 1,
+      "yolo_adv": 1,
+      "rcnn_clean": 3,
+      "rcnn_adv": 3
+    }
+  ]
+}

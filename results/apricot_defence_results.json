@@ -1,0 +1,52 @@
+{
+  "test": {
+    "Gaussian Blur": {
+      "avg_raw_yolo": 0.575,
+      "avg_raw_rcnn": 6.325,
+      "avg_defended_yolo": 0.375,
+      "avg_defended_rcnn": 5.05,
+      "yolo_recovery_pct": 0.0,
+      "rcnn_recovery_pct": 0.0
+    },
+    "Median Filter": {
+      "avg_raw_yolo": 0.575,
+      "avg_raw_rcnn": 6.325,
+      "avg_defended_yolo": 0.4,
+      "avg_defended_rcnn": 4.35,
+      "yolo_recovery_pct": 0.0,
+      "rcnn_recovery_pct": 0.0
+    },
+    "Bilateral Filter": {
+      "avg_raw_yolo": 0.575,
+      "avg_raw_rcnn": 6.325,
+      "avg_defended_yolo": 0.525,
+      "avg_defended_rcnn": 5.475,
+      "yolo_recovery_pct": 0.0,
+      "rcnn_recovery_pct": 0.0
+    },
+    "JPEG Q=75": {
+      "avg_raw_yolo": 0.575,
+      "avg_raw_rcnn": 6.325,
+      "avg_defended_yolo": 0.45,
+      "avg_defended_rcnn": 6.075,
+      "yolo_recovery_pct": 0.0,
+      "rcnn_recovery_pct": 0.0
+    },
+    "JPEG Q=50": {
+      "avg_raw_yolo": 0.575,
+      "avg_raw_rcnn": 6.325,
+      "avg_defended_yolo": 0.35,
+      "avg_defended_rcnn": 6.05,
+      "yolo_recovery_pct": 0.0,
+      "rcnn_recovery_pct": 0.0
+    },
+    "CLAHE": {
+      "avg_raw_yolo": 0.575,
+      "avg_raw_rcnn": 6.325,
+      "avg_defended_yolo": 0.5,
+      "avg_defended_rcnn": 6.375,
+      "yolo_recovery_pct": 0.0,
+      "rcnn_recovery_pct": 3.3670033670033566
+    }
+  }
+}

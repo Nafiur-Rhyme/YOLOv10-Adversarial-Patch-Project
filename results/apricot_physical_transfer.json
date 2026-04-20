@@ -1,0 +1,9 @@
+{
+  "test": {
+    "yolov10_avg_dets": 0.7666666666666667,
+    "faster_rcnn_avg_dets": 6.333333333333333,
+    "yolov10_suppression_pct": 74.27293062384577,
+    "faster_rcnn_suppression_pct": 18.90738369369517,
+    "physical_transfer_ratio_pct": 25.45662805396943
+  }
+}
