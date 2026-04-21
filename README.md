@@ -15,7 +15,7 @@ Evaluation of YOLOv10 robustness against adversarial patch attacks in white-box 
 
 #### Step 1: Create Virtual Environment
 ```bash
-cd YOLOv10-Adversarial-Patch-Project
+cd YOLOv10-Adversarial-Patch-Project # Project's root direcotry where the project.ipynb is at
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
@@ -54,7 +54,7 @@ This installs:
 
 #### Launch Jupyter
 ```bash
-jupyter notebook adversarial_patch_yolov10_fixed.ipynb
+jupyter notebook project.ipynb
 ```
 
 #### Execution Flow
@@ -109,6 +109,8 @@ ATTACK_N = 20  # was 50
 COCO_IMGS = DATASETS_DIR / 'MSCOCO_subset_5k' / 'val2017'
 APRICOT_TEST = DATASETS_DIR / 'APRICOTv1.0' / 'Images' / 'test'
 ```
+### Forece use CPU (Recommended)
+We do not have CUDA enabled system, so the project may not be properly equiped to run with CUDA (GPU)
 
 **GPU Not Detected:**
 ```python
