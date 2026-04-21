@@ -118,8 +118,8 @@ DEVICE = 'cpu'
 
 ## Submission Contents
 
-- `report.tex` — IEEE-formatted research paper
-- `adversarial_patch_yolov10_fixed.ipynb` — Complete reproducible notebook
+- `report.pdf` — IEEE-formatted report
+- `project.ipynb` — Complete reproducible notebook
 - `requirements.txt` — All dependencies
 - `README.md` — This file
 
