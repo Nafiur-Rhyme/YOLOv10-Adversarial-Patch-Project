@@ -32,6 +32,7 @@ This installs:
 - Jupyter, matplotlib, numpy, pandas, opencv-python
 
 #### Step 3: Download Datasets
+Make sure the names of the datasets sub-directories  matches with whats given below.
 
 **MS COCO 2017:**
 ```bash
@@ -71,7 +72,7 @@ Run cells sequentially from top to bottom:
 9. **Figure Generation** — Create Figure 2 (patches) and Figure 3 (metrics)
 10. **Results Aggregation** — Save JSON results and statistics
 
-**Expected Runtime:** 30–60 minutes (GPU), 2–3 hours (CPU)
+**Expected Runtime:** 30–60 minutes (GPU), 1+ hours (CPU)
 
 ### Output Files
 
