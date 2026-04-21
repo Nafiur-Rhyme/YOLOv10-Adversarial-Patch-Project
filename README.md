@@ -9,7 +9,7 @@ Evaluation of YOLOv10 robustness against adversarial patch attacks in white-box 
 - Python 3.8+
 - pip or conda
 - Jupyter Notebook
-- GPU (recommended) or CPU with 8GB+ RAM
+- GPU or CPU with 8GB+ RAM
 
 ### Installation
 
@@ -91,8 +91,8 @@ Generated in `results/` directory:
 
 | Setup | Time | RAM | Notes |
 |-------|------|-----|-------|
-| **GPU (NVIDIA)** | 30–60 min | 8GB | Recommended |
-| **CPU only** | 2–3 hours | 8GB+ | Slower but works |
+| **GPU (NVIDIA)** | 30–60 min | 8GB | Faster (Additional setup may be required) |
+| **CPU only** | 1+ hours | 8GB+ | Recommended for reproducibility |
 | **Storage** | — | 20GB | Datasets + weights |
 
 ## Troubleshooting
@@ -124,5 +124,3 @@ DEVICE = 'cpu'
 - `project.ipynb` — Complete reproducible notebook
 - `requirements.txt` — All dependencies
 - `README.md` — This file
-
-See Appendix A in the report for detailed setup and file structure instructions.
